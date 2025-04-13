@@ -3,7 +3,7 @@ import java.util.Map;
 public class Main {
 
     public static void main(String[] args) {
-        String s = "ttees";
+        String s = "teste";
         System.out.println(encodeRunLengths(s));
     }
 
